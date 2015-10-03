@@ -3,4 +3,9 @@
     
     
     
+    if (true) {
+        echo'go';
+    }
+    
+    
 ?>
